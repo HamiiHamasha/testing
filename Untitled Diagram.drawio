@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-02T03:09:40.512Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="zhdaCTHpwaKY6_-Z15d7" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-02T09:00:36.442Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Dp9Lc8RdDiPZimJleg3q" version="23.1.1" type="github">
   <diagram name="Page-1" id="aHYUxOJsQikNO2cTqWeZ">
-    <mxGraphModel dx="1120" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1248" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -579,7 +579,7 @@
         </mxCell>
         <mxCell id="po3AfRnD5kLLliEcAO8g-184" value="pengaturan" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="970" y="10" width="110" height="30" as="geometry">
-            <mxRectangle x="275" y="60" width="180" height="150" as="alternateBounds" />
+            <mxRectangle x="970" y="10" width="180" height="150" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="po3AfRnD5kLLliEcAO8g-185" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="po3AfRnD5kLLliEcAO8g-184" vertex="1">
